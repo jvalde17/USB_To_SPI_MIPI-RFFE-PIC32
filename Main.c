@@ -1,7 +1,8 @@
 //*********************************************************************
 // SP05082011 Firmware
 // Main.c
-// Version 11/20/2011
+// Version 11/20/2018
+// By Jess Valdez
 //*********************************************************************
 
 /* Adds support for PIC32 Peripheral library functions and macros */
